@@ -1,7 +1,7 @@
 # 📘 Week 2: Python Testing and Testing Frameworks
 Explore Python’s testing ecosystem and understand how to apply different testing frameworks to components of the CoVerNet pipeline, ensuring code correctness and robustness.
 
-##Key Activities:
+## Key Activities:
 -Reviewed core Python testing tools:
 
 -unittest (Python’s built-in framework)
