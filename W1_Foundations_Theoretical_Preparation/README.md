@@ -67,9 +67,3 @@ Focusing on mathematical tools underpinning neural network operations and cluste
 - Overview of clustering algorithms, particularly K-means, since it's central to the PEC step.
 - Basics of formal methods applied to neural network verification, setting the stage for later chapters.
 
-
-
-
-```python
-
-```
